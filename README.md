@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/69a51b15-d262-4c2c-8324-3dffaf8bdfac/deploy-status)](https://gpt3-vishal-beep.netlify.app)
+
 Modern UI/UX Desgin React Js 
 
 Live Preview - [Gpt3-vishal-beep](https://gpt3-vishal-beep.netlify.app/)
